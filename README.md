@@ -1,3 +1,8 @@
+# This app was created to trial out the Angular CI with Firebase (hosting) + GitHub (VersionControl) + TravisCS.
+
+An article that was used for this is 
+https://houssein.me/continuous-integration-angular-firebase-travisci
+
 # BoomShakalaka
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
