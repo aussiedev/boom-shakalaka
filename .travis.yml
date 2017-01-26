@@ -13,7 +13,7 @@ before_script:
   - npm install -g firebase-tools
 
 script:
-  - ng version
+
 
 after success:
   - firebase deploy --token $FIREBASE_TOKEN
